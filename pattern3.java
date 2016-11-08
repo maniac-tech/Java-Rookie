@@ -1,11 +1,12 @@
 /*
 This program will print the following patter
 
-    *
-   **
-  ***
- ****
-*****
+    $
+   $$
+  $$$
+ $$$$
+$$$$$
+
 
  */
 public class pattern3
