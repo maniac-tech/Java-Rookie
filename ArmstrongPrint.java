@@ -1,3 +1,6 @@
+/*
+This program will print all Armstrong number in between 1 and 1000.
+ */
 public class ArmstrongPrint
 {
 	public static void main (String args[])
