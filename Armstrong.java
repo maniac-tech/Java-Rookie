@@ -1,4 +1,10 @@
-public class Armstrong 
+/*
+This program is written to check whether a given numbre is Armstrong or not.
+Currently the program will only check is the number "375" is an Armstrong number or not.
+And the answer is supposed to be No.
+
+Replace the value 375 with some other numbre and see it in action!
+ */public class Armstrong 
 {
 	public static void main (String args[])
 	{
